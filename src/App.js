@@ -82,10 +82,11 @@ const App = () => {
   })
 
   return (
-    <div>
-      <Header onChangeSearch={onChangeSearch}/>
-      <Main addAllUsers={addAllUsers} addSelectedUsers={addSelectedUsers} userRemAll={userRemAll} userInfo={userInfo}/>
-      <Footer/>
+    <div className='wrapper'>
+        <Header onChangeSearch={onChangeSearch}/>
+        <Main addAllUsers={addAllUsers} addSelectedUsers={addSelectedUsers} userRemAll={userRemAll}
+              userInfo={userInfo}/>
+        <Footer/>
     </div>
   )
 }

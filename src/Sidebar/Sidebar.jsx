@@ -11,7 +11,7 @@ const Sidebar = (props) => {
     <div className={s.all_users}>
       {addAllUsers}
     </div>
-    <div>
+    <div >
       <h3 style={{ color: '#fff', backgroundColor: '#6B45CF', borderRadius: '10px' }}> Выбранные пользователи
       </h3>
       {addSelectedUsers.length > 0 ? <button onClick={userRemAll} style={{ background: 'black' }}
