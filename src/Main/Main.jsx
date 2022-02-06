@@ -26,28 +26,6 @@ const Main = (props) => {
               })}
             </div>
           </div>
-
-          <p>Lorem ipsum dolor sit amet. Qui ad minima veniam quis. Sapiente delectus, ut enim ipsam. Iusto odio
-            dignissimos ducimus, qui in ea commodi autem. Adipisci velit, sed ut et voluptates repudiandae. Iste
-            natus error sit voluptatem. Soluta nobis est eligendi optio, cumque nihil molestiae. Sequi nesciunt,
-            neque porro quisquam est, omnis voluptas nulla. In ea voluptate velit esse quam. Eveniet, ut
-            perspiciatis, unde omnis iste natus error sit voluptatem.</p>
-
-          <p>Lorem ipsum dolor sit amet. Qui ad minima veniam quis. Sapiente delectus, ut enim ipsam. Iusto odio
-            dignissimos ducimus, qui in ea commodi autem. Adipisci velit, sed ut et voluptates repudiandae. Iste
-            natus error sit voluptatem. Soluta nobis est eligendi optio, cumque nihil molestiae. Sequi nesciunt,
-            neque porro quisquam est, omnis voluptas nulla. In ea voluptate velit esse quam. Eveniet, ut
-            perspiciatis, unde omnis iste natus error sit voluptatem.</p>
-          <p>Lorem ipsum dolor sit amet. Qui ad minima veniam quis. Sapiente delectus, ut enim ipsam. Iusto odio
-            dignissimos ducimus, qui in ea commodi autem. Adipisci velit, sed ut et voluptates repudiandae. Iste
-            natus error sit voluptatem. Soluta nobis est eligendi optio, cumque nihil molestiae. Sequi nesciunt,
-            neque porro quisquam est, omnis voluptas nulla. In ea voluptate velit esse quam. Eveniet, ut
-            perspiciatis, unde omnis iste natus error sit voluptatem.</p>
-          <p>Lorem ipsum dolor sit amet. Qui ad minima veniam quis. Sapiente delectus, ut enim ipsam. Iusto odio
-            dignissimos ducimus, qui in ea commodi autem. Adipisci velit, sed ut et voluptates repudiandae. Iste
-            natus error sit voluptatem. Soluta nobis est eligendi optio, cumque nihil molestiae. Sequi nesciunt,
-            neque porro quisquam est, omnis voluptas nulla. In ea voluptate velit esse quam. Eveniet, ut
-            perspiciatis, unde omnis iste natus error sit voluptatem.</p>
         </article>
         <Sidebar addAllUsers={addAllUsers} addSelectedUsers={addSelectedUsers} userRemAll={userRemAll}/>
       </div>
