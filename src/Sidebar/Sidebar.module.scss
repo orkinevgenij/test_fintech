@@ -1,0 +1,34 @@
+aside {
+  fonts-size: 20px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight: bold;
+  min-height: 200px
+}
+
+.card {
+  width: 100px;
+  margin: 10px;
+}
+
+.card_photo {
+  img {
+    width: 100%;
+    border-radius: 50%;
+  }
+}
+
+.all_users {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  overflow: auto;
+  max-height: 400px;
+}
+
+.card_btn {
+  border-radius: 10px;
+  background: #6B45CF;
+  color: #fff;
+}
