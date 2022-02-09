@@ -1,10 +1,11 @@
-aside {
+.sidebar {
   fonts-size: 20px;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
   font-weight: bold;
-  min-height: 200px
+  min-height: 200px;
+  background-color: #FFCC90;
 }
 
 .card {
@@ -19,14 +20,21 @@ aside {
   }
 }
 
-.all_users {
-  display: flex;
+.allUsers  {
+  display: grid;
   justify-content: center;
-  flex-wrap: wrap;
+  grid-template-columns: auto auto auto;
   overflow: auto;
-  max-height: 400px;
+  max-height: 500px;
 }
+.selectedUsers {
+  display: grid;
+  justify-content: center;
 
+  grid-template-columns: auto auto auto;
+  overflow: auto;
+  max-height: 500px;
+}
 .card_btn {
   border-radius: 10px;
   background: #6B45CF;
