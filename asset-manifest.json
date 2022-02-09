@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/test_fintech/static/css/main.b3953639.css",
-    "main.js": "/test_fintech/static/js/main.92872661.js",
+    "main.css": "/test_fintech/static/css/main.65fdf5ed.css",
+    "main.js": "/test_fintech/static/js/main.faf99673.js",
     "index.html": "/test_fintech/index.html",
-    "main.b3953639.css.map": "/test_fintech/static/css/main.b3953639.css.map",
-    "main.92872661.js.map": "/test_fintech/static/js/main.92872661.js.map"
+    "main.65fdf5ed.css.map": "/test_fintech/static/css/main.65fdf5ed.css.map",
+    "main.faf99673.js.map": "/test_fintech/static/js/main.faf99673.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3953639.css",
-    "static/js/main.92872661.js"
+    "static/css/main.65fdf5ed.css",
+    "static/js/main.faf99673.js"
   ]
 }
