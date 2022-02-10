@@ -23,7 +23,8 @@
 .allUsers  {
   display: grid;
   justify-content: center;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: repeat(auto-fit,100px);
+  column-gap: 10px;
   overflow: auto;
   max-height: 500px;
 }
